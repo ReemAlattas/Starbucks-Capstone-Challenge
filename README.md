@@ -59,7 +59,7 @@ The project is designed with the following steps:
 - Conclusion – compare the final selected model to benchmark to see if the solution provide a better personalized offer. 
 
 ## Blog
-There's also a Medium post link with the project summary.
+There's also a [Medium post link](https://medium.com/data-storytelling/starbuck-bf754ccad17a?sk=b8ed7b080572b71c422093f4267a393c "Medium post link") with the project summary.
 
 ## Acknowledgement
 Thanks to Starbucks for the dataset, and to Udacity for bringing the opportunity to work with it.
